@@ -291,11 +291,11 @@ img {
   z-index: 10;
 }
 
-.backdrop.is-hidden {
+/* .backdrop.is-hidden {
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
-}
+} */
 
 .modal {
   position: absolute;
